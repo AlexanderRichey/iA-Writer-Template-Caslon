@@ -4,4 +4,4 @@ An elegant template for iA Writer that features Caslon. You must have the Caslon
 
 ## Preview
 
-![Caslon Preview](caslon_preview.jpg)
+![Caslon Preview](preview.jpg)
